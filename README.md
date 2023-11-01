@@ -39,4 +39,5 @@ This code is available under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
-- Mention any contributors, data sources, or references here.
+- The code is intended for educational and illustrative purposes and may require further refinement for real-world applications.
+- Mention any contributors, data sources, or references here.
