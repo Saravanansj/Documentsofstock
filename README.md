@@ -1,4 +1,4 @@
-# Stock Buying Decision Prediction
+# Stock Price Prediction
 
 ## Introduction
 
@@ -27,6 +27,7 @@ Before running the code, ensure you have the following libraries installed:
 - *Model Training*: Training Logistic Regression, SVC, and XGBoost Classifier models.
 - *Model Evaluation*: Assessing model performance using ROC AUC and a confusion matrix.
 - *Recommendations*: Providing suggestions for further improvement and real-world deployment.
+- *Dataset*: https://www.kaggle.com/datasets/prasoonkottarathil/microsoft-lifetime-stocks-dataset
 
 ## Recommendations and Conclusions
 
